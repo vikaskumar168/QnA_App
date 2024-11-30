@@ -37,11 +37,14 @@ Before you begin, ensure you have the following installed:
    git clone git@github.com:vikaskumar168/QnA_App.git  
    cd QnAApp
 2.**Install Dependency**
-npm install
+   ```bash
+   npm install
 
 3. **start the backend**
-  cd server  
-  npm run start
+   ```bash
+   cd server  
+   npm run start
 4. **start the frontend**
- cd client  
-npm run start
+   ```bash
+   cd client  
+   npm run start
