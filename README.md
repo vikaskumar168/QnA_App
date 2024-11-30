@@ -27,7 +27,7 @@ QnAApp is a question-answer platform where users can post questions, comment on 
 ## Installation and Setup
 
 1. **Clone the repository**:
-   git clone <repository-url>
+   git clone git@github.com:vikaskumar168/QnA_App.git
    cd QnAApp
 2. **Install dependencies**:
      npm install
