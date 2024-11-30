@@ -1,6 +1,6 @@
 # QnAApp  
 
-[Watch the Demo Video]((https://drive.google.com/drive/folders/1v91yF6IUTdrZA3CGQG3IcRKYiRzPF2ws?usp=sharing))  
+<a href="https://drive.google.com/drive/folders/1v91yF6IUTdrZA3CGQG3IcRKYiRzPF2ws?usp=sharing" target="_blank">Watch the Demo Video</a>  
 
 QnAApp is a question-answer platform where users can post questions, comment on them, and view questions approved by the admin. Admins have the ability to approve or reject questions, ensuring only relevant content is visible to users.  
 
